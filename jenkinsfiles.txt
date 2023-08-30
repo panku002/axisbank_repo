@@ -1,0 +1,15 @@
+stages {
+
+   stage-1 {
+    //logic
+   }
+
+   state-2 {
+    //logic
+   }
+
+   stage-3 {
+    //logic
+   }
+
+}

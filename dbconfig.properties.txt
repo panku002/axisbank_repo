@@ -1,3 +1,3 @@
-
+welcome to digital technologies
 uname=kalyani
-pwd=kal@123
+pwd=kal123@
